@@ -2,7 +2,8 @@
 *.iws
 /out
 /build
-/.idea
+.idea
+/.gradle
 .DS_Store
 /dist
 *.log
