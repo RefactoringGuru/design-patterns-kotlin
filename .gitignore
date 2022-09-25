@@ -1,0 +1,9 @@
+*.iml
+*.iws
+/out
+/build
+/.idea
+.DS_Store
+/dist
+*.log
+package-lock.json
