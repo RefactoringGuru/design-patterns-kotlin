@@ -6,9 +6,9 @@ import refactoring_guru.abstract_factory.example.factories.MacOSFactory;
 import refactoring_guru.abstract_factory.example.factories.WindowsFactory;
 
 /**
- * EN: Demo class. Everything comes together here.
+ * EN: Main function. Everything comes together here.
  *
- * RU: Демо-класс. Здесь всё сводится воедино.
+ * RU: Основна функція. Здесь всё сводится воедино.
  */
 fun main() {
     val app = createApplication()
