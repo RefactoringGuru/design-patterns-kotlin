@@ -1,0 +1,10 @@
+*.iml
+*.iws
+/out
+/build
+.idea
+/.gradle
+.DS_Store
+/dist
+*.log
+package-lock.json
