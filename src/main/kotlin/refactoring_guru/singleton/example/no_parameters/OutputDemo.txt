@@ -1,0 +1,2 @@
+Singleton one says Hello world!
+Singleton two says Hello world!
